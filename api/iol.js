@@ -1,5 +1,3 @@
-Me mandó esto 
-
 const IOL_BASE = 'https://api.invertironline.com';
 
 export default async function handler(req, res) {
